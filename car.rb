@@ -39,3 +39,6 @@ puts "This is my #{honda.model}. It is a #{honda.make} and was built in #{honda.
 
 
 
+
+
+Car.count 
